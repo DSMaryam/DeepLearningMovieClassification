@@ -1,8 +1,8 @@
 # Deep Learning Movie Ratings Classification
-# NLP Sentiment Classification for Movie Reviews With Numerical Review Prediction
-## Angela Sun, Maryam Cherradi, Nathan Rougier
+## NLP Sentiment Classification for Movie Reviews With Numerical Review Prediction
+### Angela Sun, Maryam Cherradi, Nathan Rougier
 
-Final Project for DD2424
+### Final Project for DD2424
 
 Our experiments on networks are organized into independent Notebooks, each with a different network:
 - notebook: the original binary sentiment classfication starter
